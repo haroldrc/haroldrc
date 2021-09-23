@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @haroldrc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in minecraft server creation
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on fiverr
 - 📫 How to reach me, www.harold.fun
 
 <!---
